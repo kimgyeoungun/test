@@ -1,4 +1,1 @@
-print('main')
-print('test')
-print('아아아아아')
-print('test')
+l=[1,2,3]
